@@ -1,0 +1,13 @@
+openai-whisper
+soundfile
+requests
+rich
+pandas
+streamlit
+numpy
+whisper
+sounddevice
+langchain
+langchain_community
+langchain_ollama
+tts
